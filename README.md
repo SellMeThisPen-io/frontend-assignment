@@ -8,7 +8,7 @@ Ideally changes are added as [Tailwind](https://tailwindcss.com/) classes only.
 
 Feel free to change overall layout
 
-Fork this repo into your private repo. Create PR to this repo with your changes.
+Create your own private repo and commit changes there. Invite [Van0SS](https://github.com/Van0SS) to show the changes
 
 ---
 
